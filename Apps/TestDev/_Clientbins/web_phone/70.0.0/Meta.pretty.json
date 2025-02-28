@@ -1,0 +1,7 @@
+{
+    "description": "'Binary for KSApp1'",
+    "displayname": "Sample",
+    "filename": "KSApp1.zip",
+    "upgradable": false,
+    "version": "70.0.0"
+}

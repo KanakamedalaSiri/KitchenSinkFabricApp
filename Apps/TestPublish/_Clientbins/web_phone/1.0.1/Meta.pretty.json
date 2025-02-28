@@ -1,7 +1,0 @@
-{
-    "description": "'Binary for storeDSLocalAPI'",
-    "displayname": "storeDSLocalAPI",
-    "filename": "storeDSLocalAPI.zip",
-    "upgradable": false,
-    "version": "1.0.1"
-}
